@@ -1,4 +1,4 @@
-This app was created as part of the Udemy course "React Front to Back" by Brad Travesty : https://www.udemy.com/course/react-front-to-back/ 
+This app was created as part of the Udemy course "React Front to Back" by Brad Traversy : https://www.udemy.com/course/react-front-to-back/ 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
